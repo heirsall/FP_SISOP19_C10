@@ -251,6 +251,7 @@ int main() {
         
         }
     fclose(fp);
+      sleep(1);
 //return 0;
   }
   exit(EXIT_SUCCESS);
